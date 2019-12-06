@@ -1,0 +1,43 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/v0.10.32/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SFNSText-Regular" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="194-213-215-255,,,105-122-124-255,,,75-90-92-255,,,109-123-125-255,,,0-184-226-255,,,89-152-189-255,,,111-189-127-255,,,113-143-157-255,,,220-30-0-255,,,40-214-189-255,,,93-151-143-255,,,255-94-25-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6764706" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="GO_IDE_DEFAULT_PROJECT_PATH" value="$USER_HOME$/gocode/src" />
+    <property name="KEYMAP" value="tab" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RunConfigurable.dividerProportion" value="0.18096724" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SearchEveryWhereHistory" value="FeedServ&#10;handlers/e&#10;handlers/&#10;GetScheduledFeedRe&#10;get_sc" />
+    <property name="SettingsSearchHistory" value="font&#10;line spacing&#10;line height&#10;line&#10;file watche" />
+    <property name="SplitFileEditor.Proportion" value="0.5825969" />
+    <property name="TextEditorWithPreviewLayout" value="Editor only" />
+    <property name="TrendingPluginsSearchHistory" value="material&#10;syntax&#10;python&#10;Bazel" />
+    <property name="evlsprt3.182" value="16" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/gocode/src/code.uber.internal/everything/order/clients" />
+    <property name="file.gist.reindex.count" value="98271" />
+    <property name="fileTypeChangedCounter" value="8" />
+    <property name="go.init.cfg.2" value="true" />
+    <property name="go.init.cfg.line.markers" value="true" />
+    <property name="go.last.update.timestamp" value="1575662607493" />
+    <property name="go.libraries.notification.had.been.shown" value="true" />
+    <property name="go.optimizeImportsByDefault" value="true" />
+    <property name="go.settings.notification.shown" value="true" />
+    <property name="go.suggest.all.rc.was.enabled.once" value="true" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="js.debugger.javafx.inititalization" value="true" />
+    <property name="selected.color.option.type" value="DELETED_LINES_COLOR" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+</application>
